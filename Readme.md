@@ -1,4 +1,4 @@
-# Web Part Deployer
+# SharePoint Solution Deployer
 
 This PowerShell script helps you deploy SharePoint solutions. It will retract, remove, add, and re-deploy solutions in one script.
 
